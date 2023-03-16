@@ -3,12 +3,4 @@
     <string name="title_home">Home</string>
     <string name="title_category">Category</string>
     <string name="title_notifications">Reminders</string>
-    <string name="logo">Register</string>
-    <string name="inputName">Name</string>
-    <string name="inputEmail">Email</string>
-    <string name="inputPassword">Password</string>
-    <string name="inputConfirmPassword">Confirm Password</string>
-    <string name="alreadyHaveAnAccount">Already Have An Account?</string>
-    <string name="btnRegister">Register</string>
-
 </resources>
